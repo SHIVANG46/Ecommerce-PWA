@@ -35,6 +35,6 @@ exports.pushNotification2 = functions.database.ref(`/NotifityChat/{pushId}`).onC
         }
 
 
-    })
+     })
 
 })

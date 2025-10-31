@@ -2,7 +2,7 @@
 [Paki-Olx](https://paki-olx.firebaseapp.com/)
 
 ## Techonologies Used
-1. Firebase (Authentication, RealTime Database, Cloud functions, Storage, Hosting ).
+1. Firebase (Authentication, RealTime Database, Cloud functions, Storage, Hosting).
 2. Bootstrap.
 3. Html & Css.
 4. Vanilla JavaScript.

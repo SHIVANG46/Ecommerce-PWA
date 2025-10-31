@@ -3,7 +3,7 @@ const db = firebase.database();
 const messaging = firebase.messaging();
 
 
-// registering the service worker...
+ // registering the service worker...
 
 if ('serviceWorker' in navigator) {
 

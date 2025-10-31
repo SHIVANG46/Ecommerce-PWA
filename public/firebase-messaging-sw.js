@@ -4,7 +4,7 @@ importScripts("https://www.gstatic.com/firebasejs/5.2.0/firebase-app.js")
 importScripts("https://www.gstatic.com/firebasejs/5.2.0/firebase-messaging.js")
 
 
-// Initialize Firebase
+//  Initialize Firebase
 var config = {
     apiKey: "AIzaSyCWtXna_6Pq0PfT1dPFLkygwog7qMq_fF4",
     authDomain: "paki-olx.firebaseapp.com",
